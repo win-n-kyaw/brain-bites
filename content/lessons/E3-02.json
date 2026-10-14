@@ -1,0 +1,314 @@
+{
+  "id": "E3-02",
+  "subject": "english",
+  "grade": 3,
+  "cefr": "Pre A1",
+  "title": "He, she, it + s",
+  "skill": "Learner can add -s / -es / -ies to verbs after he, she, it",
+  "intro": "After he, she or it, add -s to the verb: she plays, he goes.",
+  "games": [
+    "snatch-it"
+  ],
+  "items": [
+    {
+      "id": "E3-02-001",
+      "sentence": "She ___ to school every day.",
+      "answer": "goes",
+      "distractors": [
+        "go",
+        "going",
+        "gos",
+        "is go",
+        "are go"
+      ],
+      "hint": "go → add -es",
+      "explanation": "She goes to school every day.",
+      "difficulty": 2
+    },
+    {
+      "id": "E3-02-002",
+      "sentence": "My dad ___ coffee every morning.",
+      "answer": "drinks",
+      "distractors": [
+        "drink",
+        "drinking",
+        "drinkes",
+        "is drink",
+        "are drink"
+      ],
+      "hint": "Dad = he. Add -s.",
+      "explanation": "My dad drinks coffee every morning.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-003",
+      "sentence": "The cat ___ on the sofa all day.",
+      "answer": "sleeps",
+      "distractors": [
+        "sleep",
+        "sleeping",
+        "sleepes",
+        "is sleep",
+        "am sleep"
+      ],
+      "hint": "The cat = it. Add -s.",
+      "explanation": "The cat sleeps on the sofa all day.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-004",
+      "sentence": "Tom ___ football on Saturdays.",
+      "answer": "plays",
+      "distractors": [
+        "play",
+        "playing",
+        "plaies",
+        "is play",
+        "are play"
+      ],
+      "hint": "Vowel + y → just add -s",
+      "explanation": "Tom plays football on Saturdays.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-005",
+      "sentence": "He ___ his teeth every night.",
+      "answer": "brushes",
+      "distractors": [
+        "brush",
+        "brushs",
+        "brushing",
+        "is brush",
+        "are brush"
+      ],
+      "hint": "Ends in -sh → add -es",
+      "explanation": "He brushes his teeth every night.",
+      "difficulty": 2
+    },
+    {
+      "id": "E3-02-006",
+      "sentence": "The baby ___ a lot.",
+      "answer": "cries",
+      "distractors": [
+        "cry",
+        "crys",
+        "crying",
+        "cryes",
+        "is cry"
+      ],
+      "hint": "Consonant + y → -ies",
+      "explanation": "The baby cries a lot.",
+      "difficulty": 2
+    },
+    {
+      "id": "E3-02-007",
+      "sentence": "My sister ___ TV after dinner.",
+      "answer": "watches",
+      "distractors": [
+        "watch",
+        "watchs",
+        "watching",
+        "is watch",
+        "are watch"
+      ],
+      "hint": "Ends in -ch → add -es",
+      "explanation": "My sister watches TV after dinner.",
+      "difficulty": 2
+    },
+    {
+      "id": "E3-02-008",
+      "sentence": "It ___ a lot in July.",
+      "answer": "rains",
+      "distractors": [
+        "rain",
+        "raining",
+        "raines",
+        "is rain",
+        "are rain"
+      ],
+      "hint": "It → add -s",
+      "explanation": "It rains a lot in July.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-009",
+      "sentence": "Mr Lee ___ English at our school.",
+      "answer": "teaches",
+      "distractors": [
+        "teach",
+        "teachs",
+        "teaching",
+        "is teach",
+        "are teach"
+      ],
+      "hint": "Ends in -ch → add -es",
+      "explanation": "Mr Lee teaches English at our school.",
+      "difficulty": 2
+    },
+    {
+      "id": "E3-02-010",
+      "sentence": "Our dog ___ a long tail.",
+      "answer": "has",
+      "distractors": [
+        "have",
+        "haves",
+        "having",
+        "is have",
+        "are have"
+      ],
+      "hint": "have changes for he, she, it",
+      "explanation": "Our dog has a long tail.",
+      "difficulty": 3
+    },
+    {
+      "id": "E3-02-011",
+      "sentence": "She ___ her homework after school.",
+      "answer": "does",
+      "distractors": [
+        "do",
+        "dos",
+        "doing",
+        "is do",
+        "are do"
+      ],
+      "hint": "do → add -es",
+      "explanation": "She does her homework after school.",
+      "difficulty": 3
+    },
+    {
+      "id": "E3-02-012",
+      "sentence": "The sun ___ in the east.",
+      "answer": "rises",
+      "distractors": [
+        "rise",
+        "rising",
+        "risees",
+        "is rise",
+        "are rise"
+      ],
+      "hint": "Ends in -e → add -s",
+      "explanation": "The sun rises in the east.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-013",
+      "sentence": "My mum ___ the bus to work.",
+      "answer": "takes",
+      "distractors": [
+        "take",
+        "taking",
+        "taks",
+        "is take",
+        "are take"
+      ],
+      "hint": "Mum = she. Add -s.",
+      "explanation": "My mum takes the bus to work.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-014",
+      "sentence": "Ben ___ his bike to the park.",
+      "answer": "rides",
+      "distractors": [
+        "ride",
+        "riding",
+        "ridees",
+        "is ride",
+        "are ride"
+      ],
+      "hint": "Ben = he. Add -s.",
+      "explanation": "Ben rides his bike to the park.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-015",
+      "sentence": "This bird ___ every morning.",
+      "answer": "sings",
+      "distractors": [
+        "sing",
+        "singing",
+        "singes",
+        "is sing",
+        "are sing"
+      ],
+      "hint": "Bird = it. Add -s.",
+      "explanation": "This bird sings every morning.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-016",
+      "sentence": "My grandma ___ in a small house.",
+      "answer": "lives",
+      "distractors": [
+        "live",
+        "living",
+        "lifes",
+        "is live",
+        "are live"
+      ],
+      "hint": "Grandma = she. Add -s.",
+      "explanation": "My grandma lives in a small house.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-017",
+      "sentence": "Anna ___ apples.",
+      "answer": "likes",
+      "distractors": [
+        "like",
+        "liking",
+        "likies",
+        "is like",
+        "are like"
+      ],
+      "hint": "Anna = she. Add -s.",
+      "explanation": "Anna likes apples.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-018",
+      "sentence": "He ___ to music on the bus.",
+      "answer": "listens",
+      "distractors": [
+        "listen",
+        "listening",
+        "listenes",
+        "is listen",
+        "are listen"
+      ],
+      "hint": "He → add -s",
+      "explanation": "He listens to music on the bus.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-019",
+      "sentence": "The shop ___ at 9 o'clock.",
+      "answer": "opens",
+      "distractors": [
+        "open",
+        "opening",
+        "openes",
+        "are open",
+        "am open"
+      ],
+      "hint": "The shop = it. Add -s.",
+      "explanation": "The shop opens at 9 o'clock.",
+      "difficulty": 1
+    },
+    {
+      "id": "E3-02-020",
+      "sentence": "My brother ___ very fast.",
+      "answer": "runs",
+      "distractors": [
+        "run",
+        "running",
+        "runes",
+        "is run",
+        "are run"
+      ],
+      "hint": "Brother = he. Add -s.",
+      "explanation": "My brother runs very fast.",
+      "difficulty": 1
+    }
+  ]
+}
