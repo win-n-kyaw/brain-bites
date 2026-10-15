@@ -1,10 +1,16 @@
 {
   "lessons": [
-    {
-      "id": "E3-02",
-      "subject": "english",
-      "grade": 3,
-      "title": "He, she, it + s"
-    }
+    { "id": "E3-01", "subject": "english", "grade": 3, "cefr": "Pre A1", "unit": "Be verb", "title": "Am, is, are", "skill": "Learner can choose am / is / are for the subject", "games": ["snatch-it"] },
+    { "id": "E3-02", "subject": "english", "grade": 3, "cefr": "Pre A1", "unit": "Present simple", "title": "He, she, it + s", "skill": "Learner can add -s / -es to verbs after he, she, it", "games": ["snatch-it"] },
+    { "id": "E3-03", "subject": "english", "grade": 3, "cefr": "Pre A1", "unit": "Present continuous", "title": "Doing it now", "skill": "Learner can choose am/is/are + -ing", "games": ["snatch-it"] },
+    { "id": "E3-04", "subject": "english", "grade": 3, "cefr": "Pre A1", "unit": "Can / can't", "title": "Can and can't", "skill": "Learner can use can + base verb", "games": ["snatch-it"] },
+    { "id": "E4-01", "subject": "english", "grade": 4, "cefr": "A1", "unit": "Past simple: regular", "title": "Yesterday: -ed", "skill": "Learner can add -ed, including spelling changes", "games": ["snatch-it"] },
+    { "id": "E4-02", "subject": "english", "grade": 4, "cefr": "A1", "unit": "Past simple: irregular", "title": "Irregular past", "skill": "Learner can pick common irregular past forms", "games": ["snatch-it"] },
+    { "id": "E4-03", "subject": "english", "grade": 4, "cefr": "A1", "unit": "Was / were", "title": "Was or were", "skill": "Learner can choose was or were", "games": ["snatch-it"] },
+    { "id": "E5-01", "subject": "english", "grade": 5, "cefr": "A1–A2", "unit": "Future: going to", "title": "Going to", "skill": "Learner can use am/is/are going to + verb", "games": ["snatch-it"] },
+    { "id": "E5-02", "subject": "english", "grade": 5, "cefr": "A1–A2", "unit": "Future: will", "title": "Will", "skill": "Learner can use will + base verb", "games": ["snatch-it"] },
+    { "id": "E5-03", "subject": "english", "grade": 5, "cefr": "A1–A2", "unit": "Past continuous", "title": "Was doing", "skill": "Learner can use was/were + -ing", "games": ["snatch-it"] },
+    { "id": "E6-01", "subject": "english", "grade": 6, "cefr": "A2", "unit": "Present perfect", "title": "Have done", "skill": "Learner can use have/has + past participle", "games": ["snatch-it"] },
+    { "id": "E6-02", "subject": "english", "grade": 6, "cefr": "A2", "unit": "Mixed tenses", "title": "Time clues", "skill": "Learner can pick the tense from a time clue", "games": ["snatch-it"] }
   ]
 }

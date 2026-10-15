@@ -11,6 +11,10 @@ function urlFor(lessonId: string): string | undefined {
   return lessonUrls[`/content/lessons/${lessonId}.json`];
 }
 
+export function hasLessonFile(lessonId: string): boolean {
+  return urlFor(lessonId) !== undefined;
+}
+
 /** Returns a list of problems; an empty list means the item is playable. */
 export function validateItem(item: LessonItem): string[] {
   const problems: string[] = [];

@@ -1,6 +1,9 @@
 // Shared types: the lesson file format (design doc §6) and the game plug-in contract (§9).
 
 export type Difficulty = 'easy' | 'medium' | 'hard';
+export const DIFFICULTIES: Difficulty[] = ['easy', 'medium', 'hard'];
+
+export type Subject = 'english' | 'math' | 'science' | 'technology';
 
 export interface LessonItem {
   id: string;
@@ -15,7 +18,7 @@ export interface LessonItem {
 
 export interface Lesson {
   id: string;
-  subject: 'english' | 'math' | 'science' | 'technology';
+  subject: Subject;
   grade: 3 | 4 | 5 | 6;
   cefr: string;
   title: string;
@@ -48,3 +51,5 @@ export interface MatchResult {
 }
 
 export const GAME_COMPLETED = 'game:completed';
+/** Emitted (with no payload) when the learner quits mid-match; no game:completed follows. */
+export const GAME_EXIT = 'game:exit';
